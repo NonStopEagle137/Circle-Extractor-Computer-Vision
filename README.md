@@ -14,5 +14,8 @@ This is a circle extractor algorithm that I used in one of my Computer Vision Pr
 3. Maximum allowed major axis of the ellipses
 
 I have Used K-means segmentation and adptive thresholding as my application required them both, but you are free to amke changes that suit your specific application.
+### Some Examples :
+1. Select ROI
+![alt text](https://github.com/NonStopEagle137/Circle-Extractor-Computer-Vision/blob/Images/github_roi.jpg?raw=true)
 
 
