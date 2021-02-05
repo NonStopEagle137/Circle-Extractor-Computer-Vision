@@ -39,3 +39,4 @@ I have Used K-means segmentation and adptive thresholding as my application requ
 ### The Noise that You see in some of the Results are smaller ellipses detected, you can easily get rid of them by setting a suitable 'min_major_axis' threshold.
 ## If you use the code here for anything, please make sure to cite this repository.
 ### The adaptive threshold code comes from a publication, but I can't seem to find it. If you do find it, let me know so that I can acknowledge it here.
+### This code or derivatives of this implementation can only be used for academic purposes, if you wish to use this code for commercial purposes please contact me athrva98@gmail.com
